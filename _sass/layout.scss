@@ -14,7 +14,7 @@
 }
 
 header {
-	color: #fff;
+	color: #ebc416;
 	padding: 20px 0;
 	position: absolute;
 	top: 0;
@@ -22,7 +22,7 @@ header {
 	width: 100%;
 
 	a {
-		color: #fff;
+		color: #ebc416;
 		text-decoration: none;
 		z-index: 1;
 		position: relative;
@@ -74,7 +74,7 @@ section {
 	}
 
 	&.hero {
-		color: #ffffff;
+		color: #ebc416;
 		background: $brand-color;
 		text-align: left;
 		margin-top: -100px;
@@ -90,11 +90,11 @@ section {
 
 		p {
 			font-size: 1.8rem;
-			color: #fff;
+			color: #ebc416;
 		}
 
 		a:not(.button) {
-			color: #ffffff;
+			color: #ebc416;
 			font-style: italic;
 		}
 	}
